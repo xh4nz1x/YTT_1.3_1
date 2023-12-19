@@ -1,7 +1,7 @@
 ﻿// УП Практическая работа 1.3
 // Задание 1
 
-namespace YTT_1._3_1
+namespace YTT_3_1
 {
     internal class Program
     {
